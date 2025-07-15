@@ -2,7 +2,7 @@
 
 > <p align="center">
 >
-> <video controls src="preview.mp4" title="preview"></video>
+> <img src="resource/output.gif" alt="Music Player Demo"> 
 
 > </p>
 >
