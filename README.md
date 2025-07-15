@@ -2,7 +2,7 @@
 
 > <p align="center">
 >
-> <img src="resource/output.gif" alt="Music Player Demo"> 
+> <img src="output.gif" alt="Music Player Demo"> 
 
 > </p>
 >
